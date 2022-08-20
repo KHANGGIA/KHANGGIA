@@ -34,17 +34,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/fluency/2x/visual-studio.png/VisualStudio-282C34?
-logo=visual-studio&logoColor=5C2D91" alt="Visual Studio logo"
-title="Visual Studio" height="25" /></span>
-&nbsp;
-<span><img src="https://img.icons8.com/color/2x/net-framework.png/.Net-282C34?
-logo=.NET&logoColor=512BD4" alt=".Net logo"
-title=".Net" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
