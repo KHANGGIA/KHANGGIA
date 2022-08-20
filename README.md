@@ -50,7 +50,6 @@ title=".Net" height="25" /></span>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 &nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
@@ -71,7 +70,6 @@ alt="khang-zalo" />
 </a>
 </div>
 <br>
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
